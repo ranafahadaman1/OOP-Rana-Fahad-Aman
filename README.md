@@ -1,3 +1,3 @@
 # OOP-Rana-Fahad-Aman
-This program gets student data as input, written in Java.
+OOP Programs by RANA FAHAD AMAN.
 {Uploaded for safe keeping}
